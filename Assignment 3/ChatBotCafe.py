@@ -1,3 +1,4 @@
+#All credit goes to DATACAMP NLP tutorials :) 
 
 # Define the states
 INIT=0 
