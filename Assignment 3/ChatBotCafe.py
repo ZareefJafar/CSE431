@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 # Define the states
 INIT=0 
@@ -56,7 +51,6 @@ def send_message(state, message):
 
 
 
-
 print("""
 try these following  questions
 what can you do for me?
@@ -75,12 +69,4 @@ while con==True:
         print("Please wait don't go sir")
         break
     state = send_message(state,user)
-    
-    
-
-
-# In[ ]:
-
-
-
-
+  
