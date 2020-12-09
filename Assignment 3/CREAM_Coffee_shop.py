@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
-
-
 #CREAM_Coffee_shop
 #Special thanks to DATACAMP NLP tutorials :) 
 
@@ -92,17 +89,3 @@ As word moved east and coffee reached the Arabian peninsula, it began a journey 
 Source: National Coffee Association of U.S.A
 """)
         break
-  
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
